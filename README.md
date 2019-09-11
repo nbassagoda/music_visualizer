@@ -17,7 +17,7 @@ Before you run the app make sure you have the following installed:
 
 - Peasy Library
 
-To add this last library do the following once you open Processing:
+To add this last libraries do the following once you open Processing:
 
 - Go to the menu: Sketch-> Import Library...-> Add Library... 
 
