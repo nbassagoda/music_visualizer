@@ -25,9 +25,9 @@ To add this last libraries do the following once you open Processing:
 
 ### Running
 
-- First clone the repo, go to the folder and open the file `music_visualizer.pde`
+- First clone the repo, go to the folder and open the file `music_visualizer.pde`.
 
 - Once you're running the Processing Development Environment (or PDE), run the project by clicking the play button located across the top, in the toolbar. 
 
-- To change the music just add the song to the folder `/data` and import the song by editing `line 16` from the file `music_visualizer.pde`
+- To change the music just add the song to the folder `/data` and import the song by editing `line 16` from the file `music_visualizer.pde`.
 
